@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "name": "FlaskBrew",
+  "category": "Flask Tea",
+  "tagline": "Tea That Travels",
+  "description": "Freshly brewed tea packed in insulated flasks. Keeps your tea hot, aromatic, and ready wherever you go.",
+  "price": 4.50,
+  "unit": "per flask",
+  "image": "/images/flask-tea.jpeg",
+  "features": [
+    "Sealed for freshness",
+    "Reusable flask with eco-friendly design",
+    "Perfect for busy mornings or travel"
+  ]
+}

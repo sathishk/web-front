@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "name": "MoodBlend Custom Tea",
+  "category": "Custom Tea",
+  "tagline": "Your Blend, Your Mood",
+  "description": "Create your own blend from premium tea leaves, herbs, and spices. Perfectly tailored to your taste and wellness goals.",
+  "price": 14.99,
+  "unit": "per 100g pack",
+  "image": "/images/custom-tea.jpg",
+  "features": [
+    "Personalized blend options",
+    "Organic and sustainably sourced leaves",
+    "Ideal for gifting or daily rituals"
+  ]
+}

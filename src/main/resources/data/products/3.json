@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "name": "Master’s Pour",
+  "category": "Shop Tea",
+  "tagline": "Brewed by Hand, Served with Heart",
+  "description": "Signature tea brewed by our in-house tea master using time-honored techniques and premium leaves.",
+  "price": 2.75,
+  "unit": "per cup (served at shop)",
+  "image": "/images/shop-tea.jpeg",
+  "features": [
+    "Prepared by our master tea maker",
+    "Authentic shop experience",
+    "Rich flavor and aroma from slow brewing"
+  ]
+}

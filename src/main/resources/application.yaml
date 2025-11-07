@@ -1,3 +1,4 @@
 spring:
   application:
-    name: demo
+    name: ChaiCraft
+    caption: Crafting tea beyond tradition
